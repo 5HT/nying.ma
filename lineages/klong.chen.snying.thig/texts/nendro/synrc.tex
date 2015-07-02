@@ -1,19 +1,19 @@
 % Copyright (c) 2015 Synrc Research Center
 
-\usepackage{afterpage}
+%\usepackage{afterpage}
 \usepackage[english,russian]{babel}
-\usepackage{graphicx}
+%\usepackage{graphicx}
 \usepackage{tocloft}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \usepackage{hyphenat}
-\usepackage{caption}
-\usepackage[usenames,dvipsnames]{color}
+%\usepackage{caption}
+%\usepackage[usenames,dvipsnames]{color}
 \usepackage[top=18mm, bottom=25.4mm,
             inner=15mm,outer=18mm,
             paperwidth=142mm, paperheight=200mm]{geometry}
 
-\hyphenation{mantra recitation бес-чувстве-нен cуще-ствования
+\hyphenation{бес-чувстве-нен cуще-ствования
  буду-щем разно-образии Дхар-му наско-лько счастли-вого ниж-них
  сохрани-лось всеведую-щие свер-нуть неза-висимости}
 
@@ -83,23 +83,9 @@
 
 % define style for code listings
 
-%\lstset{
-%    backgroundcolor=\color{white},
-%    keywordstyle=\color{blue},
-%    basicstyle=\bf\ttfamily\footnotesize,
-%    columns=fixed}
-
-%\headsep = 0cm
-%\voffset = -1.5cm
-%\hoffset = -0.7cm
-%\topmargin = 0cm
-%\textwidth = 12cm
-%\textheight = 17.5cm
-%\footskip = 1cm
-%\parindent = 0cm
-
-\hyphenpenalty=5000
-  \tolerance=1000
+\lefthyphenmin=5
+\hyphenpenalty=1000
+\tolerance=1000
 
 \newenvironment{dedication}
 {
@@ -131,3 +117,5 @@
     \setmainfont{DDC Uchen}
 }
 
+\newtoggle{russian@scriptlangequal}
+\newtoggle{tibetan@scriptlangequal}
