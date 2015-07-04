@@ -3,7 +3,7 @@
 %\usepackage{afterpage}
 \usepackage[english,russian]{babel}
 %\usepackage{graphicx}
-\usepackage{tocloft}
+%\usepackage{tocloft}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \usepackage{hyphenat}
@@ -17,8 +17,8 @@
  буду-щем разно-образии Дхар-му наско-лько счастли-вого ниж-них
  сохрани-лось всеведую-щие свер-нуть неза-висимости}
 
-\setlength{\cftsubsecnumwidth}{2.5em}
-\defaultfontfeatures{Ligatures=TeX}
+%\setlength{\cftsubsecnumwidth}{2.5em}
+%\defaultfontfeatures{Ligatures=TeX}
 
 % include image for HeVeA and LaTeX
 
@@ -36,20 +36,19 @@
 
 \newcommand*{\titleNENDRO}
 {
-    \newfontfamily{\cyrillicfont}{Geometria}
-    \setdefaultlanguage{tibetan}
-     \setmainfont{Geometria}
-
+\newfontfamily{\cyrillicfont}{Geometria}
+\setdefaultlanguage{tibetan}
+\setmainfont{Geometria}
     \begingroup
-       \thispagestyle{empty}
+        \thispagestyle{empty}
         \hspace*{0.15\textwidth}
         \rule{1pt}{\textheight}
         \hspace*{0.05\textwidth}
         {
-        \parbox[c][4em][s]{0.85\textwidth}
+        \parbox[c][1em][s]{0.65\textwidth}
         {
              \noindent
-             \vspace{-10cm}
+             \vspace{-12cm}
             \setdefaultlanguage{tibetan}
             \setmainfont{DDC Uchen}
             
@@ -57,14 +56,14 @@
                            གི་སྔོན་འགྲོའི་ངག་འདོན་ཁྲིགས་\\[0.05\baselineskip]
                            སུ་བསྡེབས་པ་རྣམ་མཁྱེན་\\[0.05\baselineskip]
                           ལམ་བཟང་བྱ་བ་བཞུགས་སོ \\}
-             \\
+            \\
              \textsc{
              \setdefaultlanguage{russian}
              \setmainfont{Geometria}
-             Великолепныий Путь к Всеведению:\\[0.5\baselineskip]
-             Предварительные Практики\\[0.5\baselineskip]
-             Сердечной Сущности\\[0.5\baselineskip]
-             Обширного Пространства\\[0.5\baselineskip]
+             Великолепныий Путь к Всеведению:\\[0.3\baselineskip]
+             Предварительные Практики\\[0.3\baselineskip]
+             Сердечной Сущности\\[0.3\baselineskip]
+             Обширного Пространства\\[0.3\baselineskip]
              Великого Совершенства }
         }}
     \endgroup
@@ -87,25 +86,10 @@
 \hyphenpenalty=1000
 \tolerance=1000
 
-\newenvironment{dedication}
-{
-   \thispagestyle{empty}
-   \cleardoublepage
-   \thispagestyle{empty}
-   \vspace*{\stretch{1}}
-   \hfill\begin{minipage}[t]{0.66\textwidth}
-   \raggedright
-}
-{
-   \end{minipage}
-   \vspace*{\stretch{3}}
-   \clearpage
-}
-
-\newcommand\blankpage{
-    \null
-    \thispagestyle{empty}
-    \newpage}
+%\newcommand\blankpage{
+%    \null
+%    \thispagestyle{empty}
+%    \newpage}
 
 \newcommand{\ru}{
     \setdefaultlanguage{russian}
@@ -119,3 +103,4 @@
 
 \newtoggle{russian@scriptlangequal}
 \newtoggle{tibetan@scriptlangequal}
+
