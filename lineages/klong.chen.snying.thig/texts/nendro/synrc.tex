@@ -82,9 +82,9 @@
 
 % define style for code listings
 
-\lefthyphenmin=5
-\hyphenpenalty=1000
-\tolerance=1000
+\lefthyphenmin=1
+\hyphenpenalty=100
+\tolerance=3000
 
 %\newcommand\blankpage{
 %    \null
@@ -104,3 +104,7 @@
 \newtoggle{russian@scriptlangequal}
 \newtoggle{tibetan@scriptlangequal}
 
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
