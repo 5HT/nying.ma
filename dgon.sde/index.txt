@@ -1,0 +1,46 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../synrc.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<table width=100% align=center cellpadding=10><tr>
+<td width=400 align=center height=230 valign=center>
+<a href="../index.htm"><img src="../A.jpg" width=200></a><br>
+</td>
+<td width=370 valign=top>
+
+	<h1 style="font-size:38pt;">Паломничество</h1>
+
+	<p>Практика паломничества в священные места Индии, Тибета и Гималаев.</p>
+
+</td><td width=400 valign=top>
+
+<div class="contents">
+<iframe src="../toc.htm" frameborder=0 height=280></iframe>
+</div>
+
+</td>
+</tr><tr><td width=400 valign=top>
+
+</td><td valign=top width=370 bgcolor=#eeeeee>
+
+	<h1><a href="rgya.gar/index.htm"><b>རྒྱ་གར།</a>
+		    <div align=right style="color:silver;font-size:18pt;">Индия</div></b></h2>
+
+	<p>Буддийские монастири Ваджраяны на территории современной Индии, которые
+        можно бесперепятственно посетить без дополнительных пермитов.</p>
+
+</td><td valign=top width=400>
+
+	<h1><a href="bod/index.htm"><b>བོད།</a>
+		    <div align=right style="color:silver;font-size:18pt;">Западный Тибет</div></b></h2>
+
+	<p>Обзор буддийских монастырей Ваджраяны на территории Западного Тибета,
+	   маршрут которых должен быть согласован с китайским руководством.</p>
+
+</td></tr></table>
+
+</body>
+</html>

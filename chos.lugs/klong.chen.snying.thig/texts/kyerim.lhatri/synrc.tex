@@ -1,0 +1,148 @@
+% Copyright (c) 2015 Synrc Research Center
+
+%\usepackage{afterpage}
+\usepackage[english,russian]{babel}
+%\usepackage{graphicx}
+%\usepackage{tocloft}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\usepackage{hyphenat}
+\usepackage[framemethod=tikz]{mdframed} 
+\usepackage{tablefootnote} 
+%\usepackage{caption}
+%\usepackage[usenames,dvipsnames]{color}
+\usepackage[top=18mm, bottom=25.4mm,
+            inner=15mm,outer=18mm,
+            paperwidth=142mm, paperheight=200mm]{geometry}
+
+\hyphenation{бес-чувстве-нен cуще-ствования
+ буду-щем разно-образии Дхар-му наско-лько счастли-вого ниж-них
+ сохрани-лось всеведую-щие свер-нуть неза-висимости
+ под-дер-жи-ва-ю-ще-го
+ постепен-ного}
+
+\fontencoding{T1}
+
+%\setlength{\cftsubsecnumwidth}{2.5em}
+%\defaultfontfeatures{Ligatures=TeX}
+
+% include image for HeVeA and LaTeX
+
+%\makeatletter
+%\def\@seccntformat#1{\llap{\csname the#1\endcsname\hskip0.7em\relax}}
+%\makeatother
+
+\newcommand{\includeimage}[2]
+{\begin{figure}[h!]
+\centering
+\includegraphics[width=\textwidth]{#1}
+\caption{#2}
+\end{figure}
+}
+
+\newcommand*{\titleAKANISHTA}
+{
+\newfontfamily{\cyrillicfont}{Geometria}
+\setdefaultlanguage{tibetan}
+\setmainfont{Geometria}
+    \begingroup
+        \thispagestyle{empty}
+        \hspace*{0.15\textwidth}
+        \rule{1pt}{\textheight}
+        \hspace*{0.05\textwidth}
+        {
+        \parbox[c][][s]{0.75\textwidth}
+        {
+             \vspace{-13cm}
+            \setdefaultlanguage{tibetan}
+            \setmainfont{DDC Uchen}
+             \textsc{\tnoindent
+             \Huge  འོག་མིན་བགྲོད་པའི་ཐེམ་སྐས།
+               \\}
+             \\
+             \setdefaultlanguage{russian}
+             \setmainfont{Geometria}
+             \textsc{
+             \noindent
+             \\
+             Джигме Лингпа и Патрул Ринпоче \\ [0.3\baselineskip]
+             \\
+             \Large Лестница в Акаништху
+             \\
+             \vspace*{8cm}
+             \\
+             \normalsize
+             
+             }
+%             Устье 2015, Ясиня, 2016 \\ [0.3\baselineskip]
+             
+        }}
+    \endgroup
+    \setdefaultlanguage{russian}
+    \setmainfont{Geometria}
+}
+
+% define images store
+
+\graphicspath{{./images/}}
+
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
+
+
+% start each section from new page
+
+%\let\stdsection\section
+%\renewcommand\section{\newpage\stdsection}
+
+% define style for code listings
+
+\lefthyphenmin=10
+\hyphenpenalty=1000
+\tolerance=7000
+
+%\newcommand\blankpage{
+%    \null
+%    \thispagestyle{empty}
+%    \newpage}
+
+\newcommand{\ru}{
+    \setdefaultlanguage{russian}
+    \setmainfont{Geometria}
+}
+
+\newcommand{\ti}{
+    \setdefaultlanguage{tibetan}
+    \setmainfont{DDC Uchen}
+}
+
+\newtoggle{russian@scriptlangequal}
+\newtoggle{tibetan@scriptlangequal}
+
+\newmdenv[
+  topline=false,
+  bottomline=false,
+  rightline=false,
+  skipabove=\topsep,
+  skipbelow=\topsep,
+  leftmargin=-10pt,
+  rightmargin=-10pt,
+  innertopmargin=0pt,
+  footnoteinside=false,
+  innerrightmargin=0pt,
+  innerleftmargin=20pt
+]{siderules}
+
+\makeatletter
+\AfterEndEnvironment{mdframed}{
+ \tfn@tablefootnoteprintout
+ \gdef\tfn@fnt{0}
+}
+\makeatother
+
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}

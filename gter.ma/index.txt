@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>Традиция Откровений</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../synrc.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<table width=100% cellpadding=10 align=center><tr>
+<td width=400 height=200 align=center height=230 valign=center>
+<a href="../index.htm"><img src="../A.jpg" width=200></a><br>
+</td>
+<td width=370 valign=top>
+
+	<h1>
+	  <b style="font-size: 24pt;">Традиция Откровений</b><br>
+	  <b style="font-size: 38pt;"><span class=ti>གཏེར་མ།</span></b><br>
+	  </h1>
+
+	<p>Традиция Откровений. Терма и Тертоны.</p>
+
+	<br><br>
+
+</td><td width=400 valign=top>
+
+<div class="contents">
+<iframe src="../toc.htm" frameborder=0 height=280></iframe>
+</div>
+
+</td>
+</tr><tr><td width=400 valign=top>
+
+    <h1><b>Древние Терма</b></h1>
+
+    <h2><a href="chos.dbang.gter.ma/index.htm"><b class=ti>ཆོས་དབང་གཏེར་མ།</b></a>
+    	    <div align=right style="color:silver;font-size:18pt;">Терма Гуру Чованга</div></h2>
+
+    <p>Собрание терма Гуру Чованга (1212—1270) вллючает циклы: <b>Лама Сангду</b> (Лама — Собрание Тайн) — Учение по практике Гуру (Ладруб),
+       где содержится известная Семистрочная Молитва — призывание Гуру Падмасамбхавы,
+       <b>Тугдже Ченпо Янгнинг Дупа</b> (Авалокитешвара),
+       <b>Янсанг Пудри</b> (Ваджракилая),
+       <b>Кагье Санг Дзонг</b> (Восьми Садхан Кагью),
+       <b>Дзогчен Янгти Сангье Нямджор</b> — практика Ати Йога Одиннадцать деяний Падмакары — намтар (жизнеописание Лотосорождённого Гуру),
+       Дхарани, содержащая всю сущность Трипитаки.</p>
+
+    <h2><b class=ti>རིག་འཛིན་རྒོད་ལྡེམ།</b>
+    	    <div align=right style="color:silver;font-size:18pt;">Ригдзин Годем</div></h2>
+
+</td><td valign=top width=370 bgcolor=#eeeeee>
+
+    <h1><b>Великие Лингпа</b></h1>
+
+	<h2><!--a href="ka+rma.gling.pa.gter.chos/texts/index.txt"--><b class=ti>ཀྲམ་གླིང་པ་གཏེར་ཆོས།</b><!--/a-->
+		    <div align=right style="color:silver;font-size:18pt;">Карма Лингпа Терчо</div></h2>
+
+    <p>Карма Лингпа (1326—?) открыл <b>Забчо Шитро Гонпа Рангдрол</b> и
+    <b>Бардо Тодол Ченмо</b> известную как Тибетская Книга Мертвых.</p>
+
+	<h2><!--a href="rat+na.gling.pa.gter.chos/index.txt"--><b class=ti>རཏྣ་གླིང་པ་གཏེར་ཆོས།</b><!--/a-->
+		    <div align=right style="color:silver;font-size:18pt;">Ратна Лингпа Терчо</div></h2>
+
+
+<p>Ратна Лингпа (1403—1479) составил Ньингма Гьюбум и открыл терма
+   <b>Тукдруб Янгтик Дюпа</b>,
+   <b>Цасум Дребу Донтри</b> (Сущностные наставления реализации Трёх Корней),
+   <b>Пурба Янгсанг Ламе</b> (Соверешнно секретный и непревзойденный кинжал),
+   <b>Йидам Цасум Дрилдруб</b>,
+   <b>Цедруб Сангва Дюпа</b>,
+   <b>Дюпа Коржи</b>,
+   <b>Гуру Жидрак</b>,
+   <b>Тукчен Сангдю</b>,
+   <b>Дзогчен Лонгсал Ньима</b>.
+   </p>
+
+</td><td valign=top width=400>
+
+    <h1><b>Старые Терма</b></h1>
+
+    <h1><b>Движение Риме</b></h1>
+
+	<h2><a href="../chos.lugs/mchog.gling.gter.gsar/index.htm"><b class=ti>མཆོག་གླིང་གཏེར་གསར</b></a></h2>
+
+        <p><b>Чоклин Терсар</b> открытый Чогьюром Лингпой, собранный
+        и записанный держателями линии. Теры Чокгьюра Лингпы составляют
+        тридцать три тома. Его собственные записи содержатся еще в двенадцати томах.</p>
+
+
+
+</td></tr></table>
+
+</body>
+</html>

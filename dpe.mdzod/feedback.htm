@@ -1,0 +1,98 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../synrc.css" type="text/css" rel="stylesheet">
+
+  <link rel="stylesheet" href="to/Source/TextboxList.css" type="text/css" media="screen" charset="utf-8" />
+  <link rel="stylesheet" href="to/Source/TextboxList.Autocomplete.css" type="text/css" media="screen" charset="utf-8" />
+  <script src="to/Demo/mootools-1.2.1-core-yc.js" type="text/javascript" charset="utf-8"></script>        
+  <script src="to/Demo/GrowingInput.js" type="text/javascript" charset="utf-8"></script>
+  <script src="to/Source/TextboxList.js" type="text/javascript" charset="utf-8"></script>     
+  <script src="to/Source/TextboxList.Autocomplete.js" type="text/javascript" charset="utf-8"></script>
+  <script src="to/Source/TextboxList.Autocomplete.Binary.js" type="text/javascript" charset="utf-8"></script>     
+
+  <script type="text/javascript" charset="utf-8">
+      window.addEvent('load', function(){
+        var t5 = new TextboxList('form_tags_input_4', {unique: true, plugins: {autocomplete: {
+          minLength: 1,
+          queryRemote: true,
+          remote: {url: 'autocomplete2.php'}
+        }}});
+        t5.add('Maxim Sokhatsky').add('');
+        var t6 = new TextboxList('form_tags_input_5', {unique: true, plugins: {autocomplete: {
+          minLength: 1,
+          queryRemote: true,
+          remote: {url: 'autocomplete2.php'}
+        }}});
+        t6.add('nyingma').add('kagyu').add('jonang').add('gelug');
+      });
+    </script>
+
+
+</head>
+<body>
+
+<table width=100% cellpadding=10 align=center><tr>
+<td align=center height=230 valign=top width=400>
+<a href="index.htm"><img src="../A.jpg" width=200></a><br>
+</td>
+<td valign=top width=370>
+
+	<h1><a href="index.htm"><b>Дхарма&nbsp;Библиотека</b></a><br><b style="color:#eeEEee;">dpe mdzod khang</b></h1>
+
+	<p></p>
+
+
+</td><td valign=top width=390>
+
+</td>
+</tr><tr><td width=400 valign=top bgcolor=white>
+
+    <h2><span class="H2"><b>Public Feed</b></span> </h2>
+
+    <br><br>
+
+    <table width=392 border=0 cellpadding=15 cellspacing=5>
+    <tr><td bgcolor=#eeEEee colspan=6 class=hover valign=top><b>Максим Сохацкий</b> &mdash; Я бы
+    хотел сделать заказ на перевод трилогии Лонгчена Рабджама Умиротворение в Майя. Спасибо.
+    <tr><td bgcolor=#eeEEee colspan=6 class=hover valign=top><b>Мария</b> &mdash; Пожалуйста
+    переведите Драгоценную Сокровищницу тайного смысла. Мой телефон +9501235563.
+    </table>
+
+	<!--h2><a href=""><b>Сутра</b></a></h2>
+
+	<p>Здесь собраны оригинальные наставления Будды Шакьямуни, 
+    которые представлены в основом собрании трех корзин, а также
+    в полном собрании учения Будды в кангьюре. Все колесницы до Ваджараяны.</p>
+
+	<h2><a href=""><b>Тантра</b></a></h2>
+
+	<p>Здесь собраны оригиналы, переводы и индексы основных
+	собраний тантр старой и новой школ переводов. В овновном это основные коллекции
+	по которым сейчас ведется работа во всем мире: Цамдрак, Тинкье и Деге,
+	а также древние версии, такие как например Коллекция Вайрочаны.</p-->
+
+</td><td colspan=2 width=500 valign=top height=600 bgcolor=white>
+
+    <h2>
+	<span class="H2"><b>Message</b></span>   </h2>
+
+    <br><br>
+
+        To:
+
+      <div style="width:500;" class="form_friends">
+       <input type="text" name="test4" value="" id="form_tags_input_4" />
+      </div>
+
+      <textarea style="width:100%;margin:10 auto; resize:none;font-size:16pt;"
+                value="" rows=7 cols=49></textarea><br><br>
+
+     <div align=left>
+      <button style="margin: 0 auto;">Comment</button>
+     </div>
+
+</td></tr></table>
+
+</body>
+</html>
