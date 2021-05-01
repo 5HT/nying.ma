@@ -1,0 +1,20 @@
+% Copyright (c) 2015 Synrc Research Center
+
+\usepackage[english,russian]{babel}
+\usepackage{fontspec}
+\usepackage{tablefootnote}
+\usepackage{polyglossia}
+\usepackage{hyphenat}
+\usepackage[top=8mm, bottom=12.4mm,
+            inner=5mm,outer=8mm,
+            paperwidth=122mm, paperheight=180mm]{geometry}
+
+\fontencoding{T1}
+\lefthyphenmin=1
+\hyphenpenalty=100
+\tolerance=3000
+\newcommand{\ru}{ \setdefaultlanguage{russian} \setmainfont{Geometria} }
+\newcommand{\ti}{ \setdefaultlanguage{tibetan} \setmainfont{DDC Uchen} }
+\newtoggle{russian@scriptlangequal}
+\newtoggle{tibetan@scriptlangequal}
+

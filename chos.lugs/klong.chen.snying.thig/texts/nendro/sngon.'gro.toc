@@ -1,0 +1,182 @@
+\select@language {tibetan}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {1}Призывание}{9}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {2}Четыре мысли, отвлекающие от самсары}{10}
+\contentsline {subsection}{\numberline {2.1}Свободы и преимущества человеческой жизни}{10}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {2.2}Непостоянство жизни}{15}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {2.3}Закон причины и следствия безошибочен}{16}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {2.4}Изьяны самсары}{16}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {3}Прибежище}{22}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {4}Бодхичитта}{23}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {5}Очищение Ваджрасаттвы}{24}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {6}Подношение Мандалы}{27}
+\contentsline {subsection}{\numberline {6.1}Подношение мандалы Нирманакаи}{27}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {6.2}Подношение мандалы Самбогакаи}{27}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {6.3}Подношение мандалы Дхармакаи}{28}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {russian}
+\contentsline {section}{\numberline {7}Порождение накопления Кусали: Чод}{29}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\newpage 
+\contentsline {section}{\numberline {8}Гуру Йога}{31}
+\contentsline {subsection}{\numberline {8.1}Визуализация}{31}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {8.2}Семистрочная молитва}{33}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {8.3}Семь ветвей}{34}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {8.4}Созревание Достижений}{35}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {8.5}Благопожелания}{36}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {8.6}Растворение}{37}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {9}Молитвы и благопожелания}{38}
+\contentsline {subsection}{\numberline {9.1}Молитва линии передачи}{38}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {9.2}Благопожелания этой жизни}{40}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {9.3}Благопожелания о промежуточном состоянии}{41}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {9.4}Благопожелания о следующей жизни}{42}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {9.5}Молитва об исполнении благопожеланий}{43}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {10}Четыре посвящения}{44}
+\contentsline {subsection}{\numberline {10.1}Посвящение Вазы}{44}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {10.2}Тайное посвящение}{45}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {10.3}Посвящение Мудрости}{46}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {10.4}Символическое посвящение}{47}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {10.5}Стадия растворения}{48}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {section}{\numberline {11}Заключение}{49}
+\contentsline {subsection}{\numberline {11.1}Молитва коренному учителю}{49}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {11.2}Посвящение заслуг}{50}
+\select@language {tibetan}
+\select@language {russian}
+\contentsline {subsection}{\numberline {11.3}Особые благопожелания}{51}
+\select@language {tibetan}
+\select@language {russian}
+\select@language {tibetan}
+\select@language {russian}

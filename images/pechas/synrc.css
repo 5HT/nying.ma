@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../Geometria-Light.otf');
+    font-weight: normal;
+    font-style: normal;
+};
+
+@font-face {
+    font-family: 'Kailasa';
+    src: url('../TibetanMachineWeb.eot');
+    font-weight: lighter;
+    font-style: normal;
+};
+
